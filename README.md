@@ -41,8 +41,8 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **React
 
 ## 🤝 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- [Twitter](https://twitter.com/yourprofile)
+- [LinkedIn](https://www.linkedin.com/in/mufaddal-k/)
+- [Twitter](https://twitter.com/)
 
 ---
 
