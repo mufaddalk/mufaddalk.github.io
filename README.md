@@ -34,8 +34,8 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **React
 
 ## ✨ Featured Projects
 
-- [Project 1](https://github.com/mufaddalk/blockcerts-verifier) - A brief description of your project.
-- [Project 2](https://github.com/mufaddalk/customer-reward-app) - A brief description of your project.
+- [Blockchain certificate verifier](https://github.com/mufaddalk/blockcerts-verifier) - A brief description of your project.
+- [Customer Reward App](https://github.com/mufaddalk/customer-reward-app) - A brief description of your project.
 
 ---
 
@@ -45,10 +45,6 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **React
 - [Twitter](https://twitter.com/yourprofile)
 
 ---
-
-## 🌟 Fun Fact
-
-[Did you know that octopuses have three hearts and blue blood? Two hearts pump blood to the gills, while the third pumps it to the rest of the body!]!
 
 <style>
   @keyframes fadeIn {
