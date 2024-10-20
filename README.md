@@ -1,4 +1,4 @@
-# 👋 Hello, I'm [Mufaddal Kanchwala]!
+# 👋 Hello, I'm Mufaddal Kanchwala!
 
 Welcome to my GitHub profile! I'm a passionate developer specializing in **React.js** and **Angular**. Here, you'll find my projects, skills, and interests.
 
@@ -6,10 +6,10 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **React
 
 ## 🚀 About Me
 
-- 🌍 I’m based in [Nashik]
-- 💻 I’m currently working on [Custom CRM Mobile Application]
-- 🌱 I’m learning [Next.js and other libraries]
-- 👯 I’m looking to collaborate on [PWA's and Open source web applications]
+- 🌍 I’m based in **Nashik**
+- 💻 I’m currently working on **Custom CRM Mobile Application**
+- 🌱 I’m learning **Next.js and other libraries**
+- 👯 I’m looking to collaborate on **PWA's and Open source web applications**
 
 ---
 
@@ -34,9 +34,8 @@ Welcome to my GitHub profile! I'm a passionate developer specializing in **React
 
 ## ✨ Featured Projects
 
-- [Project 1](https://github.com/mufaddalk/project1) - A brief description of your project.
-- [Project 2](https://github.com/mufaddalk/project2) - A brief description of your project.
-- [Project 3](https://github.com/mufaddalk/project3) - A brief description of your project.
+- [Project 1](https://github.com/mufaddalk/blockcerts-verifier) - A brief description of your project.
+- [Project 2](https://github.com/mufaddalk/customer-reward-app) - A brief description of your project.
 
 ---
 
